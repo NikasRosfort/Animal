@@ -8,13 +8,15 @@ public class gitTest{
 	
 	System.out.println("Mads Bryde");
    
-   System.out.println("Mads glemte nummer "+ ++x);
+   System.out.println("Mads glemte at skrive at han var nummer "+ ++x);
  
    System.out.print("derfor blev mads");
    
    System.out.println(" bekymret da han ville overtage verdens herdømmet");
    
    System.out.println("Istedet kunne Jesper overtage verdens herdømmet \"Muhahahaha\"");
+   
+   System.out.println("Hvad Jesper dog ikke vidste var at Nikas ogsaa ville overtage verdens herdømmet");
    }
 
 }
