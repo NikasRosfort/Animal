@@ -20,5 +20,4 @@ public class gitTest{
    
    System.out.println("Test af git");
    }
-
 }
