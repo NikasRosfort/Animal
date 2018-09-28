@@ -5,6 +5,8 @@ public class gitTest{
       System.out.println("Nikas starter");
    
       System.out.println("Jesper er nummer " + x);
+	
+	System.out.println("Mads Bryde");
    }
 
 }
