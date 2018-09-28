@@ -10,7 +10,9 @@ public class gitTest{
    
    System.out.println("Mads glemte nummer "+ ++x);
  
-   System.out.println("derfor blev mads");
+   System.out.print("derfor blev mads");
+   
+   System.out.print(" bekymret da han ville overtage verdens herdømmet");
    }
 
 }
