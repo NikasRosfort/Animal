@@ -8,7 +8,9 @@ public class gitTest{
 	
 	System.out.println("Mads Bryde");
    
-   System.out.print("Mads glemte nummer "+ ++x);
+   System.out.println("Mads glemte nummer "+ ++x);
+ 
+   System.out.println("derfor blev mads");
    }
 
 }
