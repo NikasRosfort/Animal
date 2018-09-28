@@ -19,6 +19,8 @@ public class gitTest{
    System.out.println("Hvad Jesper dog ikke vidste var at Nikas ogsaa ville overtage verdens herdømmet");
    
    System.out.println("Derfor blev Nikas konge over verden og jesper blev hans lille bitch buhuhuhuhu");
-   }
 
+   System.out.println("Test af git");
+
+   }
 }
