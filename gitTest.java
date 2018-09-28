@@ -18,5 +18,4 @@ public class gitTest{
    
    System.out.println("Hvad Jesper dog ikke vidste var at Nikas ogsaa ville overtage verdens herdømmet");
    }
-
 }
