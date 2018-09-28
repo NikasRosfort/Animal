@@ -24,9 +24,15 @@ public class gitTest{
 
    System.out.println("Test af git");
 
+	if(newWorldOrder(mads)){
+		System.out.println("Mads is the new leader of the next world order");
+	}
    }
 
 	public void run(){
 		System.out.println("method");
+	}
+	public boolean newWorldOrder(String awesomeness){
+		return if(awesomeness == "mads")
 	}
 }
