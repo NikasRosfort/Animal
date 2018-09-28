@@ -12,7 +12,9 @@ public class gitTest{
  
    System.out.print("derfor blev mads");
    
-   System.out.print(" bekymret da han ville overtage verdens herdømmet");
+   System.out.println(" bekymret da han ville overtage verdens herdømmet");
+   
+   System.out.println("Istedet kunne Jesper overtage verdens herdømmet \"Muhahahaha\"");
    }
 
 }
