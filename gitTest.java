@@ -3,7 +3,8 @@ public class gitTest{
       gitTest gt = new gitTest();
       gt.run();
       int x =2;
-      
+      int y = 4;
+
       System.out.println("Nikas starter");
    
       System.out.println("Jesper er nummer " + x);
