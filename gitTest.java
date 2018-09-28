@@ -7,6 +7,8 @@ public class gitTest{
       System.out.println("Jesper er nummer " + x);
 	
 	System.out.println("Mads Bryde");
+   
+   System.out.print("Mads glemte nummer "+ ++x);
    }
 
 }
