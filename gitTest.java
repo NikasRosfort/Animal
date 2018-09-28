@@ -17,6 +17,8 @@ public class gitTest{
    System.out.println("Istedet kunne Jesper overtage verdens herdømmet \"Muhahahaha\"");
    
    System.out.println("Hvad Jesper dog ikke vidste var at Nikas ogsaa ville overtage verdens herdømmet");
+   
+   System.out.println("Test af git");
    }
 
 }
