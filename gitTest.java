@@ -1,6 +1,8 @@
 public class gitTest{
    public static void main(String[] args){
-      int x =2;
+	gitTest gt = new gitTest();
+	gt.run();
+      	int x =2;
       
       System.out.println("Nikas starter");
    
@@ -23,4 +25,8 @@ public class gitTest{
    System.out.println("Test af git");
 
    }
+
+	public void run(){
+		System.out.println("method");
+	}
 }
